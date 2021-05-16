@@ -1,0 +1,10 @@
+C:\C#\C#_Scoala\Tema1\Tema1\bin\Debug\Tema1.exe.config
+C:\C#\C#_Scoala\Tema1\Tema1\bin\Debug\Tema1.exe
+C:\C#\C#_Scoala\Tema1\Tema1\bin\Debug\Tema1.pdb
+C:\C#\C#_Scoala\Tema1\Tema1\obj\Debug\Tema1.csprojAssemblyReference.cache
+C:\C#\C#_Scoala\Tema1\Tema1\obj\Debug\Tema1.Form1.resources
+C:\C#\C#_Scoala\Tema1\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+C:\C#\C#_Scoala\Tema1\Tema1\obj\Debug\Tema1.csproj.GenerateResource.cache
+C:\C#\C#_Scoala\Tema1\Tema1\obj\Debug\Tema1.csproj.CoreCompileInputs.cache
+C:\C#\C#_Scoala\Tema1\Tema1\obj\Debug\Tema1.exe
+C:\C#\C#_Scoala\Tema1\Tema1\obj\Debug\Tema1.pdb
